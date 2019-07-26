@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+<meta charest"utf-8">
+<title>
+</title>
+<!-- head tage-->
+</head>
+<body>
+<!-- body tage -->
+</body>
+</html>

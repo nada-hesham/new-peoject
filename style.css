@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+#section1{
+    background-image:url("../img/peterpan.jpeg")/;
+    height:650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;}
+#section1 h1{
+    color:black;
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    position: relative;
+    top:50px;}
+p{
+    color:black;
+    font-size:25px;
+    text-align:center;
+    position: relative;
+    top: 250px;}
+#section1 button{
+    color:black;
+    width: 150px;
+    height:50px ;
+    position: relative;
+    top: 300px;
+    left:700px;
+    background-color: transparent;}
